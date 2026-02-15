@@ -9,6 +9,16 @@ Through the edit button inside each information box, users can update the data, 
 
 ---
 
+## 🖼️ Project Visuals
+
+<p float="left">
+  <img src="images/image_1.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  <img src="images/image_2.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  <img src="images/image_3.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
+  </p>
+  
+---
+
 ## 📖 Introduction
 
 In this project, the Fall of Constantinople, widely accepted as the event marking the end of the Middle Ages and the beginning of the Modern Age, is represented through a graph-based visualization.
@@ -53,16 +63,6 @@ The project is a conceptual demonstration and can be adapted to illustrate any h
 - Fully dynamic and user-centered structure 
 - Visual representation of strategic movements on the map using gradient lines  
 
----
-
-## 🖼️ Project Visuals
-
-<p float="left">
-  <img src="images/image_1.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  <img src="images/image_2.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  <img src="images/image_3.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
-  </p>
-  
 ---
 
 ## ⚙️ Installation & Setup
